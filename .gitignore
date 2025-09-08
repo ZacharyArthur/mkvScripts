@@ -1,0 +1,27 @@
+# AI Development Tools and Configuration
+.claude/
+sessions/
+CLAUDE.md
+CLAUDE.sessions.md
+potential_tasks.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Logs
+*.log
+mkv_audio_removal.log
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+
+# Test folder
+test_folder/
+
+# OS generated files
+.DS_Store
+Thumbs.db
